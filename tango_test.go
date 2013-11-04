@@ -2,7 +2,7 @@ package tango
 
 import (
 	"tango"
-  "fmt"
+ 	"fmt"
 )
 
 func Example200OK() {
